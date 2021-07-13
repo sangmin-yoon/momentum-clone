@@ -21,7 +21,7 @@ img {
 
 #clock {
   position: relative;
-  top: -170px;
+  bottom: -20px;
   left: -350px;
   font-size: 150px;
   color: white;
@@ -89,7 +89,6 @@ img {
 }
 
 button {
-  text-align: center;
   background-color: transparent;
 }
 
@@ -100,4 +99,5 @@ button {
   width: 500px;
   height: 500px;
   background-color: rgba(0, 0, 0, 0.2);
+  overflow: auto;
 }
