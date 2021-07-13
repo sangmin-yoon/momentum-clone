@@ -8,7 +8,7 @@ function getClock() {
     const hours = String(date.getHours()).padStart(2, "0");
     const Minutes = String(date.getMinutes()).padStart(2, "0");
     const Seconds = String(date.getSeconds()).padStart(2, "0");
-    clock.innerText = (`현재시각은 ${hours}:${Minutes}:${Seconds} 입니다.`);
+    clock.innerText = (`${hours}:${Minutes}:${Seconds}`);
 }
 
 getClock();

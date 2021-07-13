@@ -1,44 +1,44 @@
 const quotes = [
     {
-      quote: "The way to get started is to quit talking and begin doing.",
-      author: "Walt Disney",
+      quote: "바보는 방황하고, 현명한 사람은 여행한다",
+      author: "-풀러-",
     },
     {
-      quote: "Life is what happens when you're busy making other plans.",
-      author: "John Lennon",
+      quote: "여행은 언제나 돈의 문제가 아니고 용기의 문제다",
+      author: "- 파울로 코엘료-",
     },
     {
       quote:
-        "The world is a book and those who do not travel read only one page.",
-      author: "Saint Augustine",
+        "여행은 사람을 순수하게, 그러나 강하게 만든다.",
+      author: " -서양속담- ",
     },
     {
-      quote: "Life is either a daring adventure or nothing at all.",
-      author: "Helen Keller",
+      quote: "세계는 한 권의 책이다. 여행하지 않는 자는 그 책의 단지 한 페이지만을 읽을 뿐이다.",
+      author: "-성 아우구스티누스-",
     },
     {
       quote: "To Travel is to Live",
-      author: "Hans Christian Andersen",
+      author: "- 안데르센 -",
     },
     {
-      quote: "Only a life lived for others is a life worthwhile.",
-      author: "Albert Einstein",
+      quote: "행복하게 여행하려면 가볍게 여행해야한다",
+      author: "- 앙투앙 드 생텍쥐베리-",
     },
     {
-      quote: "You only live once, but if you do it right, once is enough.",
-      author: "Mae West",
+      quote: "목적지에 닿아야 행복해지는것이 아니라 여행하는 과정에서 행복을 느끼는것이다",
+      author: "-엔드류 메튜-",
     },
     {
-      quote: "Never go on trips with anyone you do ntot love.",
-      author: "Hemmingway",
+      quote: "1년중 한번은 당신이 단 한번도 가보지 못한 곳에 가 보아라",
+      author: "- 달라이 라마 -",
     },
     {
-      quote: "We wander for distraction, but we travel for fulfilment.",
-      author: "Hilaire Belloc",
+      quote: "세상을 움직이고 싶은자는, 먼저, 본인부터 움직여야 한다",
+      author: "-Socrates-",
     },
     {
-      quote: "Travel expands the mind and fills the gap.",
-      author: "Sheda Savage",
+      quote: "오늘 갈 여행을 내일로 미루지 마라",
+      author: "-여행에 미치다-",
     },
 ];
 
